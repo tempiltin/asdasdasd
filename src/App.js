@@ -24,6 +24,7 @@ function App() {
             width: (60 + offest * 0.3) + '%' ,
             left:-(0 + posti * 0.3) + '%'
            
+            
          }}
         />
         <img src={img3} alt="" id="img2"
